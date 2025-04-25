@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.trator.chatranslator.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "chatranslator.refmap.json",
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+} 

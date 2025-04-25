@@ -1,0 +1,14 @@
+{
+  "key.chatranslator.toggle": "Toggle Chat Translation",
+  "key.categories.chatranslator": "Chat Translator",
+  
+  "chatranslator.enabled": "Chat translation enabled",
+  "chatranslator.disabled": "Chat translation disabled",
+  
+  "chatranslator.config.title": "Chat Translator Config",
+  "chatranslator.config.translationEnabled": "Enable Translation",
+  "chatranslator.config.sourceLanguage": "Source Language",
+  "chatranslator.config.targetLanguage": "Target Language",
+  "chatranslator.config.showOriginalMessage": "Show Original Message",
+  "chatranslator.config.translationDelay": "Translation Delay (ms)"
+} 

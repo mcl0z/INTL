@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "chatranslator",
+  "version": "1.0.0",
+  "name": "Chat Translator",
+  "description": "实时聊天翻译模组,支持多种语言互译",
+  "authors": ["KMNO4"],
+  "contact": {
+    "homepage": "http://47.97.203.23/",
+    "sources": "http://47.97.203.23/"
+  },
+  "license": "MIT",
+  "icon": "assets/chatranslator/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.trator.chatranslator.ChatTranslatorMod"
+    ],
+    "client": [
+      "com.trator.chatranslator.ChatTranslatorMod"
+    ]
+  },
+  "mixins": [
+    "chatranslator.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "1.21.1",
+    "java": ">=21"
+  }
+}

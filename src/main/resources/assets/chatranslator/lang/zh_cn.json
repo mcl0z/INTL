@@ -1,0 +1,14 @@
+{
+  "key.chatranslator.toggle": "切换聊天翻译",
+  "key.categories.chatranslator": "聊天翻译",
+  
+  "chatranslator.enabled": "聊天翻译已启用",
+  "chatranslator.disabled": "聊天翻译已禁用",
+  
+  "chatranslator.config.title": "聊天翻译配置",
+  "chatranslator.config.translationEnabled": "启用翻译",
+  "chatranslator.config.sourceLanguage": "源语言",
+  "chatranslator.config.targetLanguage": "目标语言",
+  "chatranslator.config.showOriginalMessage": "显示原文",
+  "chatranslator.config.translationDelay": "翻译延迟(毫秒)"
+} 
